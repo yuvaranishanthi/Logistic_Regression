@@ -1,0 +1,4 @@
+project_name: Linear_Regression_Model
+model_file_path: model/linear_model.pkl
+scaler_file_path: model/scaler.pkl
+input_features: 5  # Adjust based on actual CSV
